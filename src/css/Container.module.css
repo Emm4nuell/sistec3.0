@@ -1,0 +1,12 @@
+.container{
+    width: 100%;
+    min-height: 94vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.min_height{
+    min-height: 94vh;
+}

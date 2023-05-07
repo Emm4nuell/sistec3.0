@@ -1,0 +1,39 @@
+.section{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    padding: 10px;
+    margin: auto;
+
+}
+
+.section p{
+    color: black;
+}
+
+.section form{
+    width: 100%;
+}
+
+.divform{
+    margin: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.divinput{
+    display: flex;
+    justify-content: space-between;
+}
+
+.subinput{
+    width: 100%;;
+}
+
+.divbtn{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

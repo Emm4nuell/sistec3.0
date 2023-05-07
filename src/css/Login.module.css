@@ -1,0 +1,89 @@
+.login{
+    margin: auto;
+    width: 60%;
+    min-width: 600px;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    background-color: #fff;
+}
+
+.divlogin{
+    width: 100%;
+    padding: 60px;
+}
+
+.logo{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.logo h1{
+    color: #00b5ff;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.logo img{
+    width: 20%;
+
+}
+
+.divimagem{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 6px solid #e5e5e5;
+}
+
+.divimagem img{
+    width: 100%;
+}
+
+.divinput input{
+    height: 40px;
+    font-size: 20px;
+}
+
+.cadastrese label{
+    font-size: 13px;
+}
+
+.exibir{
+    display: flex;
+    font-size: 13px;
+    justify-content: space-between;
+}
+
+.exibir label{
+    display: flex;
+}
+
+.exibir input{
+    width: 16px;
+    margin-top: 7px;
+}
+
+.botao{
+    text-align: center;
+    width: 100%;
+}
+
+.botao button{
+    margin-top: 15px;
+    width: 100%;
+    font-size: 20px;
+    border-radius: 0;
+    background-color: #00a5f1;
+    border: none;
+    transition: 1s;
+}
+
+.botao button:hover{
+    background-color: #076cd3;
+    transition: 1s;
+}

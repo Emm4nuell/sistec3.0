@@ -1,0 +1,9 @@
+.botao{
+    color: white;
+}
+
+.botao button{
+    width: 130px;
+    height: 50px;
+    border-radius: 0;
+}
